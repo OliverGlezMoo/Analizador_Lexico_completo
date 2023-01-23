@@ -1,6 +1,12 @@
 # Analizador_Lexico_completo
 
+## Descripción
+
+Un analizador léxico es un módulo destinado a leer caracteres del archivo de entrada, donde se encuentra la cadena a analizar, reconocer subcadenas que corresponden a símbolos del lenguaje y devolver los tokens correspondientes y sus atributos.
+
 ### Objetivo
+
+Contruir un analizador lexico capaz de diferenciar cadenas, identificadores, numeros reale sy enteros, ademas de multiples simbolos, operadores, tipos de datos y palabras reservadas.
 
 ### Ejecución
 ![Analizador Léxico 1](https://user-images.githubusercontent.com/123349304/213994301-bf180e2e-74e9-43a9-953f-7f6e16979a2a.jpg)  
