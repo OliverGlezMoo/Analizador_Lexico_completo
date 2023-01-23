@@ -6,7 +6,7 @@ Un analizador léxico es un módulo destinado a leer caracteres del archivo de e
 
 ### Objetivo
 
-Contruir un analizador lexico capaz de diferenciar cadenas, identificadores, numeros reale sy enteros, ademas de multiples simbolos, operadores, tipos de datos y palabras reservadas.
+Construir un analizador léxico capaz de diferenciar cadenas, identificadores, números reales y enteros, además de múltiples símbolos, operadores, tipos de datos y palabras reservadas.
 
 ### Ejecución
 ![Analizador Léxico 1](https://user-images.githubusercontent.com/123349304/213994301-bf180e2e-74e9-43a9-953f-7f6e16979a2a.jpg)  
